@@ -11,4 +11,4 @@
 babel src/app.js --out-file =public/scripts/app.js --presets=env,react
 
 #### The following code sets  abel to watch for changes: 
-src/app.js --out-file=public/scripts/app.js --presets=env,react --watch 
+babel src/app.js --out-file=public/scripts/app.js --presets=env,react --watch 
